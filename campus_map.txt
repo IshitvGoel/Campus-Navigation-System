@@ -1,0 +1,26 @@
+# Campus map: <building1> <building2> <walking distance in metres>
+# Walkways are undirected. Use underscores instead of spaces in names.
+Main_Gate Admin_Block 150
+Main_Gate Library 300
+Main_Gate Medical_Center 220
+Admin_Block Library 130
+Admin_Block Auditorium 180
+Admin_Block Placement_Cell 90
+Auditorium Placement_Cell 110
+Auditorium Sports_Complex 350
+Library Canteen 120
+Library CSE_Block 200
+Library Hostel_A 400
+Canteen Hostel_A 150
+Canteen Hostel_B 210
+Canteen CSE_Block 170
+Canteen ECE_Block 230
+CSE_Block ECE_Block 100
+CSE_Block Workshop 260
+ECE_Block Mech_Block 140
+Mech_Block Workshop 90
+Workshop Sports_Complex 300
+Hostel_A Hostel_B 80
+Hostel_A Sports_Complex 250
+Hostel_B Sports_Complex 190
+Medical_Center Hostel_B 380
